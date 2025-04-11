@@ -6,4 +6,4 @@ description: >
   From penetration testing to Linux security, my goal is to share knowledge, reinforce my learning, and help others dive into the world of ethical hacking.  
   Stay tuned for tutorials, walkthroughs, and hands-on experiments!  
 
-theme: minima
+theme: jekyll-theme-slate
