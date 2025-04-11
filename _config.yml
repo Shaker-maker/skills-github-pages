@@ -7,3 +7,4 @@ description: >
   Stay tuned for tutorials, walkthroughs, and hands-on experiments!  
 
 theme: jekyll-theme-slate
+css: styles.css
